@@ -1,0 +1,26 @@
+import json
+
+# Initialize an empty dictionary
+book = {}
+
+# Add data for 'tom'
+book['tom'] = {
+    'name': 'tom',
+    'address': '1 red street, NY',
+    'phone': 98989898
+}
+
+# Add data for 'bob'
+book['bob'] = {
+    'name': 'bob',
+    'address': '1 green street, NY',
+    'phone': 23424234
+}
+
+# Convert the Python dictionary 'book' into a JSON formatted string
+json_string = json.dumps(book)
+
+# Print the resulting JSON string to the console
+print(json_string)
+print(book)
+
