@@ -7,7 +7,7 @@
 | Resource                                                | Link                                                                                                   |
 | :------------------------------------------------------ | :----------------------------------------------------------------------------------------------------- |
 | **Video Tutorial** (Full Overview)                | [CodeBasics AI/ML Roadmap Tutorial](https://youtu.be/7MfBlmAomeM?si=x1INbCxcURq0ncPM)                     |
-| **Learning Resource Details** (PDF/Resource Page) | [Learning Resource Details - CodeBasics](https://codebasics.io/public/ai-ml-engineering-roadmap-tutorial) |
+| **Learning Resource Details** (PDF/Resource Page) | [Learning Resource Details - CodeBasics](https://codebasics.io/resources/ai-engineer-roadmap-2025) |
 
 ---
 
